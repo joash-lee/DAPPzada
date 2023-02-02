@@ -1,4 +1,5 @@
-# Dappazon
+# DAPPzada
+Like Lazada but Decentralised Get it?
 
 ## Technology Stack & Tools
 
