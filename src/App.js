@@ -7,7 +7,7 @@ import Section from "./components/Section";
 import Product from "./components/Product";
 
 // ABIs
-import Dappazada from "./abis/Dappazada.json";
+import Dappzada from "./abis/Dappzada.json";
 
 // Config
 import config from "./config.json";
@@ -15,7 +15,7 @@ import config from "./config.json";
 function App() {
   return (
     <div>
-      <h2>Welcome to Dappazada</h2>
+      <h2>Welcome to Dappzada</h2>
     </div>
   );
 }

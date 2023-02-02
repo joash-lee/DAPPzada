@@ -6,7 +6,7 @@ import Rating from "./Rating";
 
 import close from "../assets/close.svg";
 
-const Product = ({ item, provider, account, dappazada, togglePop }) => {
+const Product = ({ item, provider, account, dappzada, togglePop }) => {
   return <div className="product"></div>;
 };
 
