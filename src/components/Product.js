@@ -48,7 +48,7 @@ const Product = ({ item, provider, account, dappzada, togglePop }) => {
           <h2>Overview</h2>
           <p>
             {item.description}
-            Hi this is DAPP called Dappzada inspired by the names DAPP and
+            Hi this is a DAPP called Dappzada inspired by the names DAPP and
             popular South East Asian E-commerce store Lazada !
           </p>
         </div>
