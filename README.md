@@ -1,7 +1,7 @@
 # DAPPzada
 Like Lazada but Decentralised Get it?
 
-## Hi I am Joash and this is another DAPP inspired by DAPP University on YouTube
+### Hi I am Joash and this is another DAPP inspired by DAPP University on YouTube
 
 Since I am from SEA, I decided to call it DAPPzada beacuse Lazada is popular here. I will be adding more items but take note that this is merely a project to demonstrate what I have learnt about blockchain!
 
