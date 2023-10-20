@@ -1,6 +1,12 @@
 # DAPPzada
 Like Lazada but Decentralised Get it?
 
+### Hi I am Joash and this is another DAPP inspired by DAPP University on YouTube
+
+Since I am from SEA, I decided to call it DAPPzada beacuse Lazada is popular here. I will be adding more items but take note that this is merely a project to demonstrate what I have learnt about blockchain!
+
+It is not live on any other mainnet except the hardhat test network. Purchasing the items will not give you the items in real life. Happy Shopping
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
